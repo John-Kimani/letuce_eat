@@ -21,6 +21,7 @@
 .header ul{
     list-style: none;
     justify-content: space-evenly;
+    background: none;
 }
 .header ul li{
     display: inline-block;
@@ -36,6 +37,9 @@
     background-color: rgb(241, 146, 1);
     color: white;
     border: 1px solid rgb(241, 146, 1);
+}
+.navbar{
+    float: right;
 }
 
 
@@ -99,7 +103,7 @@
 
 
 .menu{
-    height: 900px;
+    height: 1000px;
     width: auto;
     border: 1px solid #e5e5e5;
     text-align: center;
@@ -119,11 +123,21 @@
 .card2 ul{
     list-style: none;
 }
+.card2 button{
+    border: 1px solid #ffffff;
+    height: 40px;
+    width: 90px;
+    font-weight: 500;
+    font-style: normal;
+}
 .row1{
     display: flex;
+    justify-content: space-around;
+
 }
 .row2{
     display: flex;
+    justify-content: space-around;
 }
 
 
@@ -140,4 +154,14 @@
 #book{
     height: 40px;
     width: 150px;
+    background: none;
+    color: white;
+    border: 2px solid white;
+}
+.footer{
+    text-align: center;
+    height: 50px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
 }
