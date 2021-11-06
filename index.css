@@ -119,3 +119,9 @@
 .card2 ul{
     list-style: none;
 }
+.row1{
+    display: flex;
+}
+.row2{
+    display: flex;
+}
