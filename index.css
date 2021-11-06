@@ -109,3 +109,13 @@
 .menu h1{
     color: rgb(241, 146, 1);
 }
+.card2{
+    border: 1px solid #ffffff;
+    height: 350px;
+    width: 500px;
+    background-color: #ffffff;
+    display: flex;
+}
+.card2 ul{
+    list-style: none;
+}
