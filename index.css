@@ -1,0 +1,28 @@
+.header{
+    font-size: large;
+    font-weight: 800;
+    display: flex;
+}
+.logo{
+    color: rgb(241, 146, 1);
+    display: flex;
+}
+.header ul{
+    list-style: none;
+    justify-content: space-evenly;
+}
+.header ul li{
+    display: inline-block;
+    margin: 0 15px;
+}
+.header ul li:last-child{
+    margin-right: 0;
+}
+#h-btn{
+    font-weight: 800;
+    font-size: large;
+    padding: 10px;
+    background-color: rgb(241, 146, 1);
+    color: white;
+    border: 1px solid rgb(241, 146, 1);
+}
