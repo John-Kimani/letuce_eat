@@ -96,3 +96,16 @@
     float: right;
     display: flexbox
 }
+
+
+.menu{
+    height: 900px;
+    width: auto;
+    border: 1px solid #e5e5e5;
+    text-align: center;
+    background-color: #e5e5e5;
+
+}
+.menu h1{
+    color: rgb(241, 146, 1);
+}
