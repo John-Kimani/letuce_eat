@@ -1,7 +1,10 @@
 .slideone{
-    background-image: url("images/image2.png");
-    height: 700px;
+    height: 800px;
+    width: auto;
+    border: 1px dashed black;
     color: white;
+    background-image: url("images/image2.png");
+    background-size: contain;
 }
 
 
@@ -47,4 +50,30 @@
     border: 1px solid rgb(241, 146, 1);
     color: white;
     font-weight: 900;
+}
+
+.slidetwo{
+    height: 600px;
+    width: auto;
+    border: 1px dashed #ffffff;
+    background-color: #e5e5e5;
+    text-align: center;
+    font-style: italic;
+}
+.slidetwo h1{
+    color: rgb(241, 146, 1);
+    font-style: normal;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card1{
+    border: 1px solid #ffffff;
+    height: 300px;
+    width: 300px;
+    background-color: #ffffff;
+}
+.card1 h2{
+    font-style: normal;
 }
