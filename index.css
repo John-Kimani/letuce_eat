@@ -125,3 +125,19 @@
 .row2{
     display: flex;
 }
+
+
+
+.booking{
+    border: 1px solid black;
+    height: 600px;
+    width: auto;
+    background-image: url("images/image8.png");
+    background-size: contain;
+    color: white;
+    text-align: center;
+}
+#book{
+    height: 40px;
+    width: 150px;
+}
