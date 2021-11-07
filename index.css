@@ -78,21 +78,29 @@
 #no{
     border: 1px solid rgb(241, 146, 1);
     border-radius: 50%;
-    height: 45px;
-    width: 45px;
+    height: 80px;
+    width: 80px;
     background-color: rgb(241, 146, 1);
     margin-left: 40%;
     margin-top: 40px;
     color: white;
+    font-weight: bolder;
+    font-size: x-large;
 }
 .card1{
     border: 1px solid #ffffff;
     height: 300px;
-    width: 300px;
+    width: 350px;
     background-color: #ffffff;
 }
 .card1 h2{
     font-style: normal;
+}
+.row{
+    justify-content: space-evenly;
+    padding: 80px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 
