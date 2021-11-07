@@ -12,12 +12,15 @@
     font-size: large;
     font-weight: 800;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: rgba(0, 0, 0, 0.2);
     
 }
 .logo{
     color: rgb(241, 146, 1);
     display: flex;
+    align-items: center;
 }
 .header ul{
     list-style: none;
