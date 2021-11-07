@@ -22,4 +22,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Author Info
 
-Slack profile: [John Kimani](U02KJFL46V6)
+Slack profile: [John Kimani](https://app.slack.com/client/T0101L740P4/C010GLANY3A)
