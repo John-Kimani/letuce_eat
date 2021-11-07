@@ -1,6 +1,9 @@
-# Letuce Palace
+# Letuce Eat
 
 This is a restaurant website.
+
+## Description
+This is an informative website about Letuce Eat Restaurant. Its main purpose is to drive clients over the internet who to discover, engage and know more about the restaurant.
 
 ## Technologies Used
 * HTML to display text.
@@ -19,4 +22,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Author Info
 
-Slack profile: U02KJFL46V6
+Slack profile: [John Kimani](U02KJFL46V6)
