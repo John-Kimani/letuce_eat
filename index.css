@@ -88,6 +88,7 @@
     color: white;
     font-weight: bolder;
     font-size: x-large;
+    font-style: normal;
 }
 .card1{
     border: 1px solid #ffffff;
@@ -129,11 +130,15 @@
 }
 .contentthree h3{
     line-height: 80px;
+    font-size: 30px;
     font-size: 20px;
 }
 .contentthree p{
     font-style: italic;
     font-size: 30px;
+}
+span{
+    font-size: 25px;
 }
 
 
@@ -150,10 +155,16 @@
 }
 .card2{
     border: 1px solid #ffffff;
-    height: 350px;
-    width: 500px;
+    height: 300px;
+    width: 550px;
     background-color: #ffffff;
     display: flex;
+    text-align: left;
+}
+.card2 img{
+    margin: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
 }
 .card2 p{
     margin: -20px;
@@ -167,15 +178,22 @@
     width: 90px;
     font-weight: 500;
     font-style: normal;
+    margin-top: 20px;
+
 }
+#price{
+    margin-top: 35px;
+}
+
+
 .row1{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 
 }
 .row2{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding-top: 50px;
 }
 .menu #price{
