@@ -1,10 +1,10 @@
 .slideone{
     height: 800px;
-    width: auto;
-    border: 1px dashed black;
+    width: 100%;
+    border: 1px solid black;
     color: white;
     background-image: url("images/image2.png");
-    background-size: contain;
+    background-size: cover;
 }
 
 
@@ -12,7 +12,8 @@
     font-size: large;
     font-weight: 800;
     display: flex;
-    border: 2px solid blue;
+    background-color: rgba(0, 0, 0, 0.2);
+    
 }
 .logo{
     color: rgb(241, 146, 1);
@@ -22,6 +23,7 @@
     list-style: none;
     justify-content: space-evenly;
     background: none;
+    margin-left: 50px;
 }
 .header ul li{
     display: inline-block;
@@ -38,14 +40,12 @@
     color: white;
     border: 1px solid rgb(241, 146, 1);
 }
-.navbar{
-    float: right;
-}
-
 
 .contentone{
     font-weight: 900;
     font-size: 40px;
+    margin: 80px;
+    margin-top: 150px;
 }
 .slideone button{
     background-color: rgb(241, 146, 1);
@@ -71,6 +71,17 @@
 .row{
     display: flex;
     justify-content: space-evenly;
+}
+#no{
+    border: 1px solid rgb(241, 146, 1);
+    border-radius: 50%;
+    height: 16px;
+    width: 35px;
+    background-color: rgb(241, 146, 1);
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: 40%;
+    color: white;
 }
 .card1{
     border: 1px solid #ffffff;
