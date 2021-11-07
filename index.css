@@ -78,12 +78,11 @@
 #no{
     border: 1px solid rgb(241, 146, 1);
     border-radius: 50%;
-    height: 16px;
-    width: 35px;
+    height: 45px;
+    width: 45px;
     background-color: rgb(241, 146, 1);
-    text-align: center;
-    padding-bottom: 30px;
     margin-left: 40%;
+    margin-top: 40px;
     color: white;
 }
 .card1{
