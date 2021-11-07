@@ -150,7 +150,9 @@
     display: flex;
     justify-content: space-around;
 }
-
+.menu #price{
+    color: rgb(241, 146, 1);
+}
 
 
 .booking{
